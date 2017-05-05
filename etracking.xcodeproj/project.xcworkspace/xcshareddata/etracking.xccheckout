@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>81466D29-45E8-455B-A7EC-8CA55A4FE6EE</string>
+	<key>IDESourceControlProjectName</key>
+	<string>etracking</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1A31808822148592607E14A6DDC5ED4FAB560920</key>
+		<string>bitbucket.org:mishilangular/etrack-ios-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>etrack/etracking.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1A31808822148592607E14A6DDC5ED4FAB560920</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>bitbucket.org:mishilangular/etrack-ios-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1A31808822148592607E14A6DDC5ED4FAB560920</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1A31808822148592607E14A6DDC5ED4FAB560920</string>
+			<key>IDESourceControlWCCName</key>
+			<string>etrack-ios-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
